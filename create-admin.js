@@ -31,8 +31,8 @@ async function createAdmin() {
         'manage_users',
         'view_analytics',
         'manage_settings',
+        'manage_permissions',
         'export_data',
-        'manage_permissions'
       ]
     });
 
